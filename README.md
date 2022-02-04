@@ -23,7 +23,10 @@
   
 <p align="center">프로젝트를 늦게 시작하는 바람에 외관에 신경을 많이 쓰지 못해 아쉬웠지만, 기능은 기획 의도대로 구현되었다.</p>
   
-## 5. 팀 구성
+## 5. 발표 영상  
+https://www.youtube.com/watch?v=ts7IdE8GwL4
+    
+## 6. 팀 구성
  <table align="center">
 <thead>
 <tr>
