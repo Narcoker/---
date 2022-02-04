@@ -19,10 +19,45 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/79975172/152492548-73f4cd93-a93b-4ec5-8d16-6e0f097c09e5.jpg" width=:"300px" height="350px" /> </p>
 
 
-## 4. 팀
+## 4. 팀 구성
+ <table align="center">
+<thead>
+<tr>
+  <th width="200px" align="left">Position</th>
+  <th width="200px" align="left">Name</th>
+  <th width="200px" align="left">Github</th>
+</tr> 
+</thead>
+<tbody>
 
-| Position | Name | GitHub |
-| --- | --- | --- |
-| 팀장 | 김준서 |  |
-| 팀원 | 이승민 |  |
-| 팀원 | 전찬혁 |  |
+<tr>
+  <td align="center">Leader</td>
+  <td align="center">김준서</td>
+  <td align="center">
+  <a href="https://github.com/Narcoker">
+    <img src="http://img.shields.io/badge/Narcoker-655ced?style=social&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  </td> 
+</tr>
+  
+  
+<tr>
+  <td align="center" style="text-align:center">Member</td>
+  <td align="center">이승민</td>
+  <td align="center">
+  <a href="https://github.com/lee2963">
+    <img src="http://img.shields.io/badge/lee2963-655ced?style=social&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  </td> 
+</tr>
+  
+<tr>
+  <td align="center">Member</td>
+  <td align="center">전찬혁</td>
+  <td align="center">
+ 
+  </td> 
+</tr>
+
+</tbody>
+</table>
