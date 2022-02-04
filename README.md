@@ -7,7 +7,7 @@
 > 
 
 ## 2. 흐름도
-
+![순서도](https://user-images.githubusercontent.com/79975172/152492548-73f4cd93-a93b-4ec5-8d16-6e0f097c09e5.jpg)
 
 
 ## 3. 기능
